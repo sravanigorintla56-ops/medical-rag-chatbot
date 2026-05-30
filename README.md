@@ -53,4 +53,4 @@ This project is for educational purposes only and is not medical advice.
 
 ## Author
 
-Govardhan Chowdary
+Sravani Gorintla
